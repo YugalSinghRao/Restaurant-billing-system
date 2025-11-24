@@ -30,8 +30,8 @@ The system is beginner-friendly and demonstrates file handling concepts using JS
 Ensure the folder contains:
 ```
 restaurant.py
-menu_simple.json   (auto-created if missing)
-order_log_simple.txt   (auto-created)
+menu_simple.json   
+order_log_simple.txt   
 ```
 
 ### 2. No Dependencies Required
@@ -43,8 +43,8 @@ python restaurant.py
 ```
 
 ### 4. File Initialization
-- menu_simple.json → Stores menu items (created automatically if not found)
-- order_log_simple.txt → Stores order records (each transaction saved as JSON)
+- menu_simple.json → Stores menu items 
+- order_log_simple.txt → Stores order records 
 
 ## Instructions for Testing
 1. Launch the program

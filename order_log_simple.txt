@@ -1,0 +1,1 @@
+{"time": "2025-11-24 15:19:19", "items": [{"name": "Burger", "qty": 3, "price": 120}, {"name": "Cold Drink", "qty": 23, "price": 40}], "total": 1344.0}

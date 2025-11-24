@@ -1,0 +1,22 @@
+{
+    "101": {
+        "name": "Burger",
+        "price": 120
+    },
+    "102": {
+        "name": "Pizza Slice",
+        "price": 90
+    },
+    "103": {
+        "name": "Sandwich",
+        "price": 70
+    },
+    "201": {
+        "name": "Cold Drink",
+        "price": 40
+    },
+    "301": {
+        "name": "Chocolate Cake",
+        "price": 60
+    }
+}
